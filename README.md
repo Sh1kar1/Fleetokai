@@ -1,6 +1,6 @@
 # Fleetokai
 
-Minimalistic pastel **color scheme for JetBrains IDEs** inspired by <ins>Monokai</ins> theme, but filled with <ins>Fleet Dark</ins> colors and <ins>IntelliJ Dark</ins> background
+**Color scheme for JetBrains IDEs** inspired by <ins>Monokai</ins> theme, but filled with <ins>Fleet Dark</ins> colors
 
 ---
 
