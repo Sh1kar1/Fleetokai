@@ -27,7 +27,3 @@
 2. Go to _Settings_ -> _Plugins_ -> _Marketplace_
 3. Search for "**Fleetokai**"
 4. Click _Install_
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
