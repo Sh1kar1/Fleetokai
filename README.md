@@ -1,6 +1,6 @@
 # Fleetokai
 
-**Color scheme for JetBrains IDEs** inspired by <ins>Monokai</ins> theme, but filled with <ins>Fleet Dark</ins> colors
+**Color scheme for JetBrains IDEs** inspired by <ins>Monokai</ins>, but with <ins>Fleet Dark</ins> colors
 
 ---
 
