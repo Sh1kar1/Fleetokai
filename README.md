@@ -7,13 +7,13 @@
 ## Examples
 
 ### Java:
-![](images/java.png)
+![](assets/images/java.png)
 
 ### Python:
-![](images/python.png)
+![](assets/images/python.png)
 
 ### C++:
-![](images/cpp.png)
+![](assets/images/cpp.png)
 
 ## Supported IDEs
 
